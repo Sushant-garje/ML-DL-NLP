@@ -1,0 +1,42 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>name</th>
+      <th>age</th>
+      <th>city</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>sushant</td>
+      <td>20</td>
+      <td>pune</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>rahul</td>
+      <td>19</td>
+      <td>sangli</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>ayush</td>
+      <td>20</td>
+      <td>nager</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>junaid</td>
+      <td>22</td>
+      <td>pandharput</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>varad</td>
+      <td>20</td>
+      <td>sambhajinagar</td>
+    </tr>
+  </tbody>
+</table>
